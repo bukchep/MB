@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\winmain.o
+./release\Sheet1.o
+./release\Sheet2.o
+./release\line.o
+./release\table.o
+./release\moc_winmain.o
+./release\moc_Sheet1.o
+./release\moc_Sheet2.o
+./release\moc_line.o
+./release\moc_table.o
+./release\qrc_res.o
+);

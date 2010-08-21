@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\winmain.o
+./debug\Sheet1.o
+./debug\Sheet2.o
+./debug\line.o
+./debug\table.o
+./debug\moc_winmain.o
+./debug\moc_Sheet1.o
+./debug\moc_Sheet2.o
+./debug\moc_line.o
+./debug\moc_table.o
+./debug\qrc_res.o
+);

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>qss/info.qss</file>
+        <file>qss/style.qss</file>
+        <file>qss/zoombuttton.qss</file>
+        <file>images/logo.jpeg</file>
+        <file>qss/app.qss</file>
+        <file>qss/line.qss</file>
+        <file>qss/free.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+QWidget{ 
+border: 2px solid #ff0000;
+ }
+/*border: 0px solid #0000FF;*/
+QPushButton { /* все типы инструментальных кнопок */
+     border: 1px solid #C4DBFF;
+     border-radius: 4px;
+     qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                 stop: 0 #FBFDFF, stop: 0.5 #DFEDFF,
+				 stop: 0.5 #DFEDFF, stop: 0.8 #BFDBFF,
+				 stop: 0.8 #BFDBFF, stop: 1 #AACEFF);
+}
+QPushButton:!editable:hover {
+
+    border: 1px solid #8B9AB4;
+   background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                 stop: 0 #FBFDFF, stop: 0.5 #DFEDFF,
+				 stop: 0.5 #DFEDFF, stop: 0.8 #BFDBFF,
+				 stop: 0.8 #BFDBFF, stop: 1 #AACEFF);
+}

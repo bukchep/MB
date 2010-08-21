@@ -1,0 +1,13 @@
+
+QLabel {
+	border: 3px solid #ff0f0f;
+     border-radius: 00px;
+     background-color: #f0ff0f;
+}
+
+
+QWidget{ 
+border: 3px solid #ff0000;
+     border-radius: 0px;
+     background-color: #0000ff;
+ }
